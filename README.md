@@ -73,7 +73,7 @@ vs Asymmetric crypto System, Active and Passive Attacks, Firewalls – Firewall 
 its types, Intruder - Intrusion Detection System (IDS) - Network Intrusion Detection
 Systems (NIDS) and Host-Based Intrusion Detection Systems (HIDS), Virus and
 related threats - Virus, Worms, Trojan Horses, Spyware and Adware, Rootkit,
-Zoombies, Botnets, Scareware.
+Zoombies, Botnets, Scareware
 8. Circuit Theory, Electronic Devices and Circuits:
 • Mesh Current and Node voltage analysis –Network theorems – Thevenin’s,
 Norton’s, Maximum Power Transfer, Superposition and Reciprocity theorems –
@@ -96,7 +96,7 @@ Multiplexing – TDM, FDM – Multiple Access – TDMA.
 Efficiency – bandwidth-gain –folded dipole – arrays – broadside – end fire –
 Yagi, Log periodic, Turnstile antennas – Parabolic reflectors – beam width,
 gain and applications.
-10.D.C. Machines and A.C. machines:
+10. D.C. Machines and A.C. machines:
 • DC Machines, Batteries and Measuring Instruments:DC Generators,
 EMF equation, Characteristics, Efficiency and Parallel operations.DC Motors :
 Principle of operations, Back EMF, Torque Equation, Types, armature reaction,
@@ -109,7 +109,7 @@ Synchronous Motors : Operation and performance, effects of Excitation, V –
 Curve and inverted V- curve, Three phase induction Motors ; Principle of
 operation, Torque Equation, Slip torque characterstics, losses, efficiency,
 speed control
-11.Power System generation and Protection:
+11. Power System generation and Protection:
 • Generating Stations: Working, Comparison of thermal, Hydel, Nuclear and
 Gas Power Stations, power factor correction and economy.
 • Power station Protection: Circuit Breakers – Types, Principles of operation
@@ -118,7 +118,7 @@ and uses,
 parameters, inductance and capacitance, performance of short and medium
 lines, regulation, Ferranti effect, Corona, Basic Concepts of HVDC
 Transmission Advantage and disadvantages of HVDC Transmission
-12.Electrical & Electronic Measuring Instruments:
+12. Electrical & Electronic Measuring Instruments:
 • Analog Instruments – Extension of range of Ammeter, Voltmeter and
 Ohmmeter – FET Voltmeter – Differential voltmeter – Digital instruments –
 Ramp – Dual slope integration- successive approximation –digital frequency
