@@ -64,16 +64,9 @@ topologies, Network classifications, Overview of OSI reference model and TCP/IP
 protocol suite, Transmission Media– Wired and Wireless Transmission, Networks
 Switching Techniques, Multiple Access Protocols - CSMA/CD protocols, Ethernet
 LANS, repeaters, hubs, switches, bridges, router and gateways, Networks Layer
-Functions – Routing, Routing algorithms, IP protocol, Transport Layer Functions
-- Error and Flow control, Three way handshake, Application layer protocol -
-Overview of DNS protocol, WWW &HTTP protocols, Network Security Basics -
-Confidentiality, Integrity, Availability, Security Policies, Security Mechanisms,
-Transposition, Substitution, Steganography, Ceaser Cipher, Symmetric crypto System
-vs Asymmetric crypto System, Active and Passive Attacks, Firewalls – Firewall and
-its types, Intruder - Intrusion Detection System (IDS) - Network Intrusion Detection
-Systems (NIDS) and Host-Based Intrusion Detection Systems (HIDS), Virus and
-related threats - Virus, Worms, Trojan Horses, Spyware and Adware, Rootkit,
-Zoombies, Botnets, Scareware
+Functions – Routing, Routing algorithms, IP protocol, Transport Layer Functions - Error and Flow control, Three way handshake, Application layer protocol - Overview of DNS protocol, WWW &HTTP protocols, Network Security Basics -
+Confidentiality, Integrity, Availability, Security Policies, Security Mechanisms, Transposition, Substitution, Steganography, Ceaser Cipher, Symmetric crypto System vs Asymmetric crypto System, Active and Passive Attacks, Firewalls – Firewall and
+its types, Intruder - Intrusion Detection System (IDS) - Network Intrusion Detection Systems (NIDS) and Host-Based Intrusion Detection Systems (HIDS), Virus and related threats - Virus, Worms, Trojan Horses, Spyware and Adware, Rootkit, Zoombies, Botnets, Scareware
 8. Circuit Theory, Electronic Devices and Circuits:
 • Mesh Current and Node voltage analysis –Network theorems – Thevenin’s,
 Norton’s, Maximum Power Transfer, Superposition and Reciprocity theorems –
